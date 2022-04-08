@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# TShirt Mania
 
-[https://flourishing-gelato-52c059.netlify.app/](https://flourishing-gelato-52c059.netlify.app/).
+Live Site: [https://flourishing-gelato-52c059.netlify.app/](https://flourishing-gelato-52c059.netlify.app/).
